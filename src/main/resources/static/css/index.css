@@ -1,0 +1,25 @@
+.button {
+    border: darkslategray;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: darkblue;
+    font-size: 15px;
+    margin: 15px 200px;
+    cursor: pointer;
+}
+.btn-warning{background-color: deepskyblue}
+.btn-primary{background-color: deepskyblue}
+
+
+
+/* this is only due to codepen display don't use this outside of codepen */
+.col-md {
+    padding-top: 20px;
+}
+
+
+.text-primary{
+    margin: 20px 400px;
+}
+.text-primary
